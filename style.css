@@ -1,0 +1,33 @@
+.heading 
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+.heading button {
+    float: right;
+    border: 1px solid  white;
+}
+.big_image {
+    width: 100%;
+}
+#start, #status {
+    font-size: 22px;
+
+}
+
+.instruction_image {
+   display: inline-block;
+    width: 45%;
+}
+.modal-dialog 
+{
+    width: 90%;
+}
+.modal-body {
+    text-align: left;
+    font-size: 20px;
+}
