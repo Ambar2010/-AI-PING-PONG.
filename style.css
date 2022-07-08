@@ -31,3 +31,17 @@
     text-align: left;
     font-size: 20px;
 }
+.copy_right_footer {
+   
+    font-size: 15px;
+    width: 100%;
+    line-height: 2;
+    background-color: white;
+    color: black;
+    bottom: 0;
+    position: fixed;
+    margin: 0px;
+}
+#restart {
+margin-bottom: 100px;
+}
